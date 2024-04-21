@@ -1,8 +1,8 @@
 # Image-Steganography
 Image Steganography
 
-user@user:~] ./lsb_steg
+user@user:~] ./a.out
 
-./lsb_steg: Encoding: ./lsb_steg -e <.bmp_file> <.text_file> [output file]
+./a.out: Encoding: ./a.out -e <.bmp_file> <.text_file> [output file]
 
-./lsb_steg: Decoding: ./lsb_steg -d <.bmp_file> [output file]
+./a.out: Decoding: ./a.out -d <.bmp_file> [output file]
